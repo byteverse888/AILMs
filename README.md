@@ -1,4 +1,2 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+# 模型目录
+项目中使用到的大模型目录，包括模型代码、部署说明（包含部署脚本、模型数据地址、docker镜像地址）、版本信息、API说明、配套AIGC脚本、优化说明等
